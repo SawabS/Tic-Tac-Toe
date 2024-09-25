@@ -56,4 +56,3 @@ Even if you don't have time to contribute code, feel free to submit [issues](htt
 ---
 
 Thank you for checking out my Tic-Tac-Toe project! I'm looking forward to seeing how the community helps improve it. Let's build something awesome together! 🚀
-```
