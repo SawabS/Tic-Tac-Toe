@@ -6,7 +6,7 @@ Welcome to my **Tic-Tac-Toe** project! 🎮 This is a simple web-based implement
 Feel free to explore the code, give it a try, and contribute your ideas. Whether you're fixing a bug, enhancing the UI, or adding cool new features, your contributions are welcome!
 
 ## Features
-- Play against a friend or the computer.
+- Play against a friend or the computer (to be added).
 - Simple and intuitive user interface.
 - Tracks the score of each player.
 - Responsive design for mobile and desktop.
