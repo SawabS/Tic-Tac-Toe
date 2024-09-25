@@ -1,15 +1,15 @@
 # 🎮 Tic-Tac-Toe Game
 
-Welcome to the **Tic-Tac-Toe** project! This is a fun, web-based version of the classic Tic-Tac-Toe game, built with **[technologies you're using like HTML/CSS/JavaScript, React, or anything specific to your project]**. Whether you're here to play, explore the code, or contribute—you're in the right place! 🌟
+Welcome to the **Tic-Tac-Toe** project! This is a fun, web-based version of the classic Tic-Tac-Toe game, built with **[technologies you're using like HTML/CSS/JavaScript, React, or anything specific to your project]**. Whether you're here to play, explore the code, or contribute—you're in the right place!
 
 > **Let’s make this game amazing together!** 🎉 Your contributions, ideas, and suggestions are always welcome.
 
 ## 🕹️ Features
 
-- **Play against a friend** or challenge yourself against a computer (coming soon! 🤖).
+- **Play against a friend** or challenge yourself against a computer (coming soon!).
 - **Simple and intuitive** user interface for a smooth gaming experience.
-- **Score tracking** to keep track of your wins and losses. 🏆
-- **Responsive design** that works great on both desktop and mobile devices. 📱💻
+- **Score tracking** to keep track of your wins and losses. 
+- **Responsive design** that works great on both desktop and mobile devices.
 
 ## 🚀 Getting Started
 
@@ -42,16 +42,16 @@ We’d love your help! Here’s how you can contribute:
    ```bash
    git checkout -b feature/your-feature
    ```
-3. **Make your changes** ✨. Whether it’s a new feature, bug fix, or UI enhancement—every contribution helps.
+3. **Make your changes** . Whether it’s a new feature, bug fix, or UI enhancement—every contribution helps.
 4. **Commit your changes** with a meaningful message:
    ```bash
    git commit -m "Add feature: [your feature]"
    ```
-5. **Push to your branch** 🌍:
+5. **Push to your branch** :
    ```bash
    git push origin feature/your-feature
    ```
-6. **Open a Pull Request** 🚀. We’ll review it and merge it if everything looks good!
+6. **Open a Pull Request** . We’ll review it and merge it if everything looks good!
 
 ### 👩‍💻🧑‍💻 Some Ideas for Contributions:
 - **Adding an AI**: Create an AI opponent for single-player mode (easy, medium, hard).
@@ -64,9 +64,9 @@ We’d love your help! Here’s how you can contribute:
 
 Got a suggestion or found a bug? 🐛 No worries! Submit an issue [here](https://github.com/your-username/tictactoe/issues) or start a discussion. Every bit of feedback helps improve the game.
 
-> **Community first!** Your ideas, suggestions, and contributions shape the future of this project. 💪
+> **Community first!** Your ideas, suggestions, and contributions shape the future of this project. 
 
 ---
 
-**Thank You** for checking out my Tic-Tac-Toe project! 🙌 Let’s build something fun and challenging together. 🚀  
-Don’t forget to ⭐ **Star** the repo if you like the project, and let’s create something awesome! 🌟
+**Thank You** for checking out my Tic-Tac-Toe project! Let’s build something fun and challenging together.   
+Don’t forget to **Star** the repo if you like the project, and let’s create something awesome!
