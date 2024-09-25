@@ -17,11 +17,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tictactoe.git
+   git clone https://github.com/your-username/Tic-Tac-Toe.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd tictactoe
+   cd Tic-Tac-Toe
    ```
 3. Open the `index.html` file in your web browser (or run `npm start` if it's a React project).
 
@@ -51,7 +51,6 @@ Your contributions can include:
 - Any other ideas that make the project better!
 
 ## Feedback and Suggestions
-
 Even if you don't have time to contribute code, feel free to submit [issues](https://github.com/your-username/tictactoe/issues) with suggestions or ideas. Your advice is appreciated!
 
 ---
